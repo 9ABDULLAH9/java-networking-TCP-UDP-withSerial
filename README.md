@@ -22,6 +22,5 @@ The next step is to build: Build menu-> Build Artifacts-> Build
 Open cmd-> write "ipconfig"
 we use IPv4 Adress
 
-![ipconfig](https://github.com/9ABDULLAH9/java-networking-TCP-UDP-withSerial/assets/63702174/a2c7d3ee-9e04-42d9-9220-e595619d4cf8)
 
 
